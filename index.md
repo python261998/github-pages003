@@ -9,7 +9,7 @@
 <body>
 
 <video width="320" height="240" controls autoplay>
-  <source src="//f.video.weibocdn.com/003ci9r3gx07BmhM8qnZ01041200HxNs0E010.mp4" type="video/mp4">
+  <source src="https://f.video.weibocdn.com/003ci9r3gx07BmhM8qnZ01041200HxNs0E010.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   <source src="movie.webm" type="video/webm">
   <object data="movie.mp4" width="320" height="240">
